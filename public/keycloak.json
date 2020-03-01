@@ -1,0 +1,8 @@
+{
+  "realm": "medicopter-test",
+  "auth-server-url": "https://auth.wesecon.cz/auth",
+  "ssl-required": "external",
+  "resource": "spring-boot-workshop",
+  "public-client": true,
+  "confidential-port": 0
+}
