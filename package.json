@@ -126,7 +126,7 @@
     "keycode": "^2.1.9",
     "lodash": "^4.17.15",
     "lodash.debounce": "^4.0.8",
-    "markdown-it": "^8.4.1",
+    "markdown-it": "^12.3.2",
     "marked": "^0.8.0",
     "prettier": "^1.13.0",
     "prop-types": "^15.6.0",
